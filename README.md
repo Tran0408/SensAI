@@ -2,7 +2,7 @@
 
 SensAI is a full-stack AI-powered career coaching platform that helps job seekers prepare for interviews, craft ATS-friendly resumes and cover letters, and stay informed about their industry's salary ranges, demand, and trends. It's built with Next.js 15 (App Router), Prisma + PostgreSQL, Clerk for auth, Google's Gemini for AI, Inngest for scheduled background jobs, and a Tailwind + shadcn/ui front-end.
 
-![SensAI](https://github.com/user-attachments/assets/eee79242-4056-4d19-b655-2873788979e1)
+
 
 ---
 
