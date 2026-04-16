@@ -186,6 +186,4 @@ No license file is provided in this repository. All rights reserved by the origi
 
 ---
 
-## Credits
 
-Originally built following the "Full Stack AI Career Coach" tutorial — see the [walkthrough video](https://youtu.be/UbXpRv5ApKA).
